@@ -6,4 +6,5 @@
 - 🤔 Qualquer ajuda será bem vinda!
 - 💬 Vamos conversar, juntos aprendemos melhor.
 
+![nicolasJDCs GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasJDC&show_icons=true&theme=radical)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasJDC&hide_progress=true&theme=radical)](https://github.com/nicolasJDC/github-readme-stats)
 
