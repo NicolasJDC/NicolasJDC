@@ -1,4 +1,4 @@
-### Ola a todos, me chamo Nícolas, atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) e estou adentrando o universo da programação.
+### Ola a todos, me chamo Nícolas, atualmente estou cursando SI (Sistemas de Informação) e estou adentrando o universo da programação.
 
 
 - 🔭 Atualmente não estou trabalhando na área.
